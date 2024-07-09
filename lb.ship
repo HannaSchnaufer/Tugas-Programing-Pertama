@@ -1,0 +1,268 @@
+{
+  "bounds": [
+    204,
+    1.5,
+    190.5,
+    4.5,
+    123,
+    11.5,
+    54.5,
+    17.5,
+    -41.5,
+    20.5,
+    -150,
+    18.5,
+    -180,
+    16.5,
+    -190,
+    14,
+    -204.5,
+    10.5,
+    -204.5,
+    -10.5,
+    -190,
+    -14,
+    -180,
+    -16.5,
+    -150,
+    -18.5,
+    -41.5,
+    -20.5,
+    54.5,
+    -17.5,
+    123,
+    -11.5,
+    190.5,
+    -4.5,
+    204,
+    -1.5
+  ],
+  "builtInWeapons": {
+    "WS0005": "ravepulse"
+  },
+  "builtInWings": [],
+  "center": [
+    214.5,
+    209.5
+  ],
+  "collisionRadius": 218,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 16,
+      "length": 51,
+      "location": [
+        -207,
+        -8.5
+      ],
+      "style": "OMEGA",
+      "width": 16
+    },
+    {
+      "angle": -180,
+      "contrailSize": 16,
+      "length": 51,
+      "location": [
+        -207,
+        8.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 16
+    }
+  ],
+  "height": 420,
+  "hullId": "lb",
+  "hullName": "Long Beach",
+  "hullSize": "CAPITAL_SHIP",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 214,
+  "spriteName": "graphics/ships/LB-1Z.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 180,
+      "arc": 240,
+      "id": "WS0001",
+      "locations": [
+        -139,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 180,
+      "arc": 240,
+      "id": "WS0002",
+      "locations": [
+        -13.5,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 0,
+      "arc": 240,
+      "id": "WS0003",
+      "locations": [
+        81.5,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 0,
+      "arc": 240,
+      "id": "WS0004",
+      "locations": [
+        138,
+        0.5
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 180,
+      "arc": 240,
+      "id": "WS0005",
+      "locations": [
+        -45,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 180,
+      "arc": 30,
+      "id": "WS0006",
+      "locations": [
+        -194,
+        14.5
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "MISSILE"
+    },
+    {
+      "angle": -180,
+      "arc": 30,
+      "id": "WS0007",
+      "locations": [
+        -194,
+        -14.5
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 180,
+      "arc": 30,
+      "id": "WS0008",
+      "locations": [
+        -203.5,
+        12
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "MISSILE"
+    },
+    {
+      "angle": -180,
+      "arc": 30,
+      "id": "WS0009",
+      "locations": [
+        -203.5,
+        -12
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 180,
+      "arc": 30,
+      "id": "WS0010",
+      "locations": [
+        -206,
+        3.5
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "MISSILE"
+    },
+    {
+      "angle": -180,
+      "arc": 30,
+      "id": "WS0011",
+      "locations": [
+        -206,
+        -3.5
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 90,
+      "arc": 240,
+      "id": "WS0012",
+      "locations": [
+        -95.5,
+        1
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -90,
+      "arc": 240,
+      "id": "WS0013",
+      "locations": [
+        -95.5,
+        -1
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -90,
+      "arc": 240,
+      "id": "WS0014",
+      "locations": [
+        16.5,
+        -3
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 90,
+      "arc": 240,
+      "id": "WS0015",
+      "locations": [
+        16.5,
+        3
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 420
+}
